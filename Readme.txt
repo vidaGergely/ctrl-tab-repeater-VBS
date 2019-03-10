@@ -1,0 +1,2 @@
+- A Program CTRL + TAB billentyûkombinációval képes a böngészõ lapfüleket váltogatni, definiált idõintervallumonként
+- Csak úgy képes mûködni, a program megfelelõen, ha a két script fájl egy könyvtárban található meg.
